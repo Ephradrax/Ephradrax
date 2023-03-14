@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Fonseca</h1>
+<h3 align="center">Bak End Developer | JavaScript | reac.js | node</h3>
 <h3 align="center">A passionate back end developer from argentina</h3>
 
 - 📫 How to reach me **mauri.b.fonseca@gmail.com**
