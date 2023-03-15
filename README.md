@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauricio Fonseca</h1>
+<h1 align="center">Hola 👋, Soy Maurico Fonseca</h1>
 <h3 align="center">Bak End Developer | JavaScript | reac.js | node</h3>
 <h3 align="center">Hola mi nombre es Mauricio 
 me encanta la programación y busco aprender nuevas tecnologias.
