@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mauricio Fonseca</h1>
 <h3 align="center">Bak End Developer | JavaScript | reac.js | node</h3>
-<h3 align="center">A passionate back end developer from argentina</h3>
+<h3 align="center">Hola mi nombre es Mauricio 
+me encanta la programación y busco aprender nuevas tecnologias.
+Estoy preparado para utilizar mis habilidades en cualquier lugar.
+Aporto trabajo en equipo, comunicacion a la hora de usar mis habilidades.
+Se varios lenguajes de programación, como Javascript | Redux | React | HTML | CSS | Node.js | Express | SQL | PostgreSQL | NOSQL | git 🚀 🚀 🚀</h3>
 
-- 📫 How to reach me **mauri.b.fonseca@gmail.com**
+- 📫 Mi contacto **mauri.b.fonseca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
